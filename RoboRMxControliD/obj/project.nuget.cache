@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "y+4cISzhMRE=",
+  "success": true,
+  "projectFilePath": "C:\\_ControlID\\Net8\\RoboRMxControliD\\RoboRMxControliD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CleitonSilva\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.2\\microsoft.extensions.configuration.10.0.2.nupkg.sha512",
+    "C:\\Users\\CleitonSilva\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.2\\microsoft.extensions.configuration.abstractions.10.0.2.nupkg.sha512",
+    "C:\\Users\\CleitonSilva\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\10.0.2\\microsoft.extensions.configuration.environmentvariables.10.0.2.nupkg.sha512",
+    "C:\\Users\\CleitonSilva\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\10.0.2\\microsoft.extensions.configuration.fileextensions.10.0.2.nupkg.sha512",
+    "C:\\Users\\CleitonSilva\\.nuget\\packages\\microsoft.extensions.configuration.json\\10.0.2\\microsoft.extensions.configuration.json.10.0.2.nupkg.sha512",
+    "C:\\Users\\CleitonSilva\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\10.0.2\\microsoft.extensions.fileproviders.abstractions.10.0.2.nupkg.sha512",
+    "C:\\Users\\CleitonSilva\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\10.0.2\\microsoft.extensions.fileproviders.physical.10.0.2.nupkg.sha512",
+    "C:\\Users\\CleitonSilva\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\10.0.2\\microsoft.extensions.filesystemglobbing.10.0.2.nupkg.sha512",
+    "C:\\Users\\CleitonSilva\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.2\\microsoft.extensions.primitives.10.0.2.nupkg.sha512",
+    "C:\\Users\\CleitonSilva\\.nuget\\packages\\nlog\\6.0.7\\nlog.6.0.7.nupkg.sha512",
+    "C:\\Users\\CleitonSilva\\.nuget\\packages\\system.io.pipelines\\10.0.2\\system.io.pipelines.10.0.2.nupkg.sha512",
+    "C:\\Users\\CleitonSilva\\.nuget\\packages\\system.text.encodings.web\\10.0.2\\system.text.encodings.web.10.0.2.nupkg.sha512",
+    "C:\\Users\\CleitonSilva\\.nuget\\packages\\system.text.json\\10.0.2\\system.text.json.10.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

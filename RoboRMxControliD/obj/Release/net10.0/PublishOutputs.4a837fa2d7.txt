@@ -1,0 +1,17 @@
+C:\_ControlID\Net10\RoboRMxControliD\bin\Release\net10.0\publish\appsettings.json
+C:\_ControlID\Net10\RoboRMxControliD\bin\Release\net10.0\publish\nlog.config
+C:\_ControlID\Net10\RoboRMxControliD\bin\Release\net10.0\publish\RoboRMxControliD.exe
+C:\_ControlID\Net10\RoboRMxControliD\bin\Release\net10.0\publish\RoboRMxControliD.dll
+C:\_ControlID\Net10\RoboRMxControliD\bin\Release\net10.0\publish\RoboRMxControliD.deps.json
+C:\_ControlID\Net10\RoboRMxControliD\bin\Release\net10.0\publish\RoboRMxControliD.runtimeconfig.json
+C:\_ControlID\Net10\RoboRMxControliD\bin\Release\net10.0\publish\RoboRMxControliD.pdb
+C:\_ControlID\Net10\RoboRMxControliD\bin\Release\net10.0\publish\Microsoft.Extensions.Configuration.dll
+C:\_ControlID\Net10\RoboRMxControliD\bin\Release\net10.0\publish\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\_ControlID\Net10\RoboRMxControliD\bin\Release\net10.0\publish\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\_ControlID\Net10\RoboRMxControliD\bin\Release\net10.0\publish\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\_ControlID\Net10\RoboRMxControliD\bin\Release\net10.0\publish\Microsoft.Extensions.Configuration.Json.dll
+C:\_ControlID\Net10\RoboRMxControliD\bin\Release\net10.0\publish\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\_ControlID\Net10\RoboRMxControliD\bin\Release\net10.0\publish\Microsoft.Extensions.FileProviders.Physical.dll
+C:\_ControlID\Net10\RoboRMxControliD\bin\Release\net10.0\publish\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\_ControlID\Net10\RoboRMxControliD\bin\Release\net10.0\publish\Microsoft.Extensions.Primitives.dll
+C:\_ControlID\Net10\RoboRMxControliD\bin\Release\net10.0\publish\NLog.dll

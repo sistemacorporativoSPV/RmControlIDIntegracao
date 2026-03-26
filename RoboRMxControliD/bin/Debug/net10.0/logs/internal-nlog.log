@@ -1,0 +1,1 @@
+2026-01-21 13:46:12.3898 Warn Logger: RoboRMxControliD.ExecutaIntegracao configured with duplicate output to target: ConsoleTarget(Name=console). LoggingRule with NamePattern='*' and Level=Error has been skipped.

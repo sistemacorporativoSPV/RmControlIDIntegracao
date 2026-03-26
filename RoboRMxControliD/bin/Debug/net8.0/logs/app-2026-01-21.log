@@ -1,0 +1,7 @@
+2026-01-21 14:54:58.8781|Info|RoboRMxControliD.ExecutaIntegracao|[RoboRMxControliD] - Executar Integração iniciado|
+2026-01-21 14:55:03.1487|Error|RoboRMxControliD.ExecutaIntegracao|[RoboRMxControliD] - Ocorreu um erro durante a execução - Erro: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. (localhost:5189)
+System.Net.Sockets.SocketException (10061): Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)|
