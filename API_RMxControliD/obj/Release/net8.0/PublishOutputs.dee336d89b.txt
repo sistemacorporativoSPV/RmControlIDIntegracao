@@ -1,0 +1,15 @@
+C:\_ControlID\Net8\API_RMxControliD\obj\Release\net8.0\PubTmp\Out\API_RMxControliD.exe
+C:\_ControlID\Net8\API_RMxControliD\obj\Release\net8.0\PubTmp\Out\nlog.config
+C:\_ControlID\Net8\API_RMxControliD\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\_ControlID\Net8\API_RMxControliD\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\_ControlID\Net8\API_RMxControliD\obj\Release\net8.0\PubTmp\Out\API_RMxControliD.dll
+C:\_ControlID\Net8\API_RMxControliD\obj\Release\net8.0\PubTmp\Out\API_RMxControliD.deps.json
+C:\_ControlID\Net8\API_RMxControliD\obj\Release\net8.0\PubTmp\Out\API_RMxControliD.runtimeconfig.json
+C:\_ControlID\Net8\API_RMxControliD\obj\Release\net8.0\PubTmp\Out\API_RMxControliD.pdb
+C:\_ControlID\Net8\API_RMxControliD\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\_ControlID\Net8\API_RMxControliD\obj\Release\net8.0\PubTmp\Out\NLog.dll
+C:\_ControlID\Net8\API_RMxControliD\obj\Release\net8.0\PubTmp\Out\NLog.Extensions.Logging.dll
+C:\_ControlID\Net8\API_RMxControliD\obj\Release\net8.0\PubTmp\Out\NLog.Web.AspNetCore.dll
+C:\_ControlID\Net8\API_RMxControliD\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\_ControlID\Net8\API_RMxControliD\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\_ControlID\Net8\API_RMxControliD\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

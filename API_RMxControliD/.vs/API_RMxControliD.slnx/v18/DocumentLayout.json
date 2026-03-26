@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\_ControlID\\Net8\\API_RMxControliD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF05AE41-62E7-2B99-27A6-330E7A39BD19}|API_RMxControliD.csproj|c:\\_controlid\\net8\\api_rmxcontrolid\\application\\services\\integracaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF05AE41-62E7-2B99-27A6-330E7A39BD19}|API_RMxControliD.csproj|solutionrelative:application\\services\\integracaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF05AE41-62E7-2B99-27A6-330E7A39BD19}|API_RMxControliD.csproj|c:\\_controlid\\net8\\api_rmxcontrolid\\api\\endpoints\\controllers\\integracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF05AE41-62E7-2B99-27A6-330E7A39BD19}|API_RMxControliD.csproj|solutionrelative:api\\endpoints\\controllers\\integracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF05AE41-62E7-2B99-27A6-330E7A39BD19}|API_RMxControliD.csproj|c:\\_controlid\\net8\\api_rmxcontrolid\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF05AE41-62E7-2B99-27A6-330E7A39BD19}|API_RMxControliD.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF05AE41-62E7-2B99-27A6-330E7A39BD19}|API_RMxControliD.csproj|c:\\_controlid\\net8\\api_rmxcontrolid\\domain\\entities\\funcionariorhid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF05AE41-62E7-2B99-27A6-330E7A39BD19}|API_RMxControliD.csproj|solutionrelative:domain\\entities\\funcionariorhid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF05AE41-62E7-2B99-27A6-330E7A39BD19}|API_RMxControliD.csproj|c:\\_controlid\\net8\\api_rmxcontrolid\\domain\\entities\\funcionariorm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF05AE41-62E7-2B99-27A6-330E7A39BD19}|API_RMxControliD.csproj|solutionrelative:domain\\entities\\funcionariorm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 184,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FuncionarioRHiD.cs",
+              "DocumentMoniker": "C:\\_ControlID\\Net8\\API_RMxControliD\\Domain\\Entities\\FuncionarioRHiD.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\FuncionarioRHiD.cs",
+              "ToolTip": "C:\\_ControlID\\Net8\\API_RMxControliD\\Domain\\Entities\\FuncionarioRHiD.cs",
+              "RelativeToolTip": "Domain\\Entities\\FuncionarioRHiD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T13:31:31.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FuncionarioRM.cs",
+              "DocumentMoniker": "C:\\_ControlID\\Net8\\API_RMxControliD\\Domain\\Entities\\FuncionarioRM.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\FuncionarioRM.cs",
+              "ToolTip": "C:\\_ControlID\\Net8\\API_RMxControliD\\Domain\\Entities\\FuncionarioRM.cs",
+              "RelativeToolTip": "Domain\\Entities\\FuncionarioRM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T19:04:17.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\_ControlID\\Net8\\API_RMxControliD\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\_ControlID\\Net8\\API_RMxControliD\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-23T18:39:40.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IntegraController.cs",
+              "DocumentMoniker": "C:\\_ControlID\\Net8\\API_RMxControliD\\API\\Endpoints\\Controllers\\IntegraController.cs",
+              "RelativeDocumentMoniker": "API\\Endpoints\\Controllers\\IntegraController.cs",
+              "ToolTip": "C:\\_ControlID\\Net8\\API_RMxControliD\\API\\Endpoints\\Controllers\\IntegraController.cs",
+              "RelativeToolTip": "API\\Endpoints\\Controllers\\IntegraController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T18:54:08.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IntegracaoService.cs",
+              "DocumentMoniker": "C:\\_ControlID\\Net8\\API_RMxControliD\\Application\\Services\\IntegracaoService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\IntegracaoService.cs",
+              "ToolTip": "C:\\_ControlID\\Net8\\API_RMxControliD\\Application\\Services\\IntegracaoService.cs",
+              "RelativeToolTip": "Application\\Services\\IntegracaoService.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAuwL4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T19:00:57.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

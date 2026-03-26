@@ -1,0 +1,89 @@
+2026-02-02 16:09:51.3825|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD - 02/02/2026 16:09:51 - Operação Iniciada ...|
+2026-02-02 16:09:54.0102|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RetornaFuncionariosAdmitidos] - Procurando funcionários admitidos na data de terça-feira, 27 de janeiro de 2026 ...|
+2026-02-02 16:10:28.9682|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD - 02/02/2026 16:10:28 - Operação Iniciada ...|
+2026-02-02 16:10:30.6838|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RetornaFuncionariosAdmitidos] - Procurando funcionários admitidos na data de quarta-feira, 28 de janeiro de 2026 ...|
+2026-02-02 16:10:49.9548|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissaoAsync] - Verificando funcionários admitidos ...|
+2026-02-02 16:10:49.9548|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissaoAsync] - Encontrado(s) 1 admitido(s)|
+2026-02-02 16:10:50.8368|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissao] - 02/02/2026 16:10:50 -  {"code":400,"error":"Pessoa associada ao horário não encontrada"}|
+2026-02-02 16:10:50.8444|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissao] - Total Cadastrado(s): 1 admitido(s)|
+2026-02-02 16:10:52.7533|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RetornaFuncionariosDemitidos] - Procurando funcionários demitidos na data de quarta-feira, 28 de janeiro de 2026 ...|
+2026-02-02 16:10:52.7533|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RealizaIntegracaoAsync] - Não foi encontrado nenhum funcionário demitido|
+2026-02-02 16:10:52.7533|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD - 02/02/2026 16:10:52 - Operação finalizada com sucesso|
+2026-02-02 16:13:56.3413|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD - 02/02/2026 16:13:56 - Operação Iniciada ...|
+2026-02-02 16:13:58.5941|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RetornaFuncionariosAdmitidos] - Procurando funcionários admitidos na data de quarta-feira, 28 de janeiro de 2026 ...|
+2026-02-02 16:14:05.1091|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissaoAsync] - Verificando funcionários admitidos ...|
+2026-02-02 16:14:05.1091|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissaoAsync] - Encontrado(s) 1 admitido(s)|
+2026-02-02 16:14:51.9821|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissao] - 02/02/2026 16:14:51 -  {"code":400,"error":"Pessoa associada ao horário não encontrada"}|
+2026-02-02 16:14:51.9821|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissao] - Total Cadastrado(s): 1 admitido(s)|
+2026-02-02 16:14:51.9821|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RetornaFuncionariosDemitidos] - Procurando funcionários demitidos na data de quarta-feira, 28 de janeiro de 2026 ...|
+2026-02-02 16:14:51.9929|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RealizaIntegracaoAsync] - Não foi encontrado nenhum funcionário demitido|
+2026-02-02 16:14:51.9929|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD - 02/02/2026 16:14:51 - Operação finalizada com sucesso|
+2026-02-02 16:24:05.0939|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD - 02/02/2026 16:24:05 - Operação Iniciada ...|
+2026-02-02 16:24:07.1520|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RetornaFuncionariosAdmitidos] - Procurando funcionários admitidos na data de quarta-feira, 28 de janeiro de 2026 ...|
+2026-02-02 16:24:07.1614|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RealizaIntegracaoAsync] - Não foi encontrado nenhum funcionário admitido|
+2026-02-02 16:24:07.1614|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RetornaFuncionariosDemitidos] - Procurando funcionários demitidos na data de quarta-feira, 28 de janeiro de 2026 ...|
+2026-02-02 16:24:07.1614|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RealizaIntegracaoAsync] - Não foi encontrado nenhum funcionário demitido|
+2026-02-02 16:24:07.1814|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD - 02/02/2026 16:24:07 - Operação finalizada com sucesso|
+2026-02-02 16:24:13.2495|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD - 02/02/2026 16:24:13 - Operação Iniciada ...|
+2026-02-02 16:24:14.9522|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RetornaFuncionariosAdmitidos] - Procurando funcionários admitidos na data de quarta-feira, 28 de janeiro de 2026 ...|
+2026-02-02 16:24:14.9621|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RealizaIntegracaoAsync] - Não foi encontrado nenhum funcionário admitido|
+2026-02-02 16:24:14.9621|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RetornaFuncionariosDemitidos] - Procurando funcionários demitidos na data de quarta-feira, 28 de janeiro de 2026 ...|
+2026-02-02 16:24:14.9794|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RealizaIntegracaoAsync] - Não foi encontrado nenhum funcionário demitido|
+2026-02-02 16:24:14.9794|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD - 02/02/2026 16:24:14 - Operação finalizada com sucesso|
+2026-02-02 16:25:04.3980|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD - 02/02/2026 16:25:04 - Operação Iniciada ...|
+2026-02-02 16:25:05.8988|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RetornaFuncionariosAdmitidos] - Procurando funcionários admitidos na data de quarta-feira, 28 de janeiro de 2026 ...|
+2026-02-02 16:26:38.4251|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RetornaFuncionariosAdmitidos] - Procurando funcionários admitidos na data de quarta-feira, 28 de janeiro de 2026 ...|
+2026-02-02 16:29:34.0760|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD - 02/02/2026 16:29:34 - Operação Iniciada ...|
+2026-02-02 16:29:36.6145|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RetornaFuncionariosAdmitidos] - Procurando funcionários admitidos na data de quarta-feira, 28 de janeiro de 2026 ...|
+2026-02-02 16:32:49.4866|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD - 02/02/2026 16:32:49 - Operação Iniciada ...|
+2026-02-02 16:32:51.8741|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RetornaFuncionariosAdmitidos] - Procurando funcionários admitidos na data de quarta-feira, 28 de janeiro de 2026 ...|
+2026-02-02 16:34:07.8239|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RealizaIntegracaoAsync] - Não foi encontrado nenhum funcionário admitido|
+2026-02-02 16:34:07.8239|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RetornaFuncionariosDemitidos] - Procurando funcionários demitidos na data de quarta-feira, 28 de janeiro de 2026 ...|
+2026-02-02 16:34:07.8354|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RealizaIntegracaoAsync] - Não foi encontrado nenhum funcionário demitido|
+2026-02-02 16:34:07.8354|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD - 02/02/2026 16:34:07 - Operação finalizada com sucesso|
+2026-02-02 16:34:18.1815|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD - 02/02/2026 16:34:18 - Operação Iniciada ...|
+2026-02-02 16:34:20.5718|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RetornaFuncionariosAdmitidos] - Procurando funcionários admitidos na data de quarta-feira, 28 de janeiro de 2026 ...|
+2026-02-02 16:34:50.0325|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD - 02/02/2026 16:34:50 - Operação Iniciada ...|
+2026-02-02 16:34:53.4828|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RetornaFuncionariosAdmitidos] - Procurando funcionários admitidos na data de quarta-feira, 28 de janeiro de 2026 ...|
+2026-02-02 16:35:25.7163|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RetornaFuncionariosAdmitidos] - Procurando funcionários admitidos na data de quarta-feira, 28 de janeiro de 2026 ...|
+2026-02-02 16:36:35.2943|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD - 02/02/2026 16:36:35 - Operação Iniciada ...|
+2026-02-02 16:36:37.4177|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RetornaFuncionariosAdmitidos] - Procurando funcionários admitidos na data de quarta-feira, 28 de janeiro de 2026 ...|
+2026-02-02 16:38:24.4770|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD - 02/02/2026 16:38:24 - Operação Iniciada ...|
+2026-02-02 16:38:26.2161|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RetornaFuncionariosAdmitidos] - Procurando funcionários admitidos na data de quarta-feira, 28 de janeiro de 2026 ...|
+2026-02-02 16:38:37.2749|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissaoAsync] - Verificando funcionários admitidos ...|
+2026-02-02 16:38:37.2749|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissaoAsync] - Encontrado(s) 1 admitido(s)|
+2026-02-02 16:40:17.3727|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissao] - 02/02/2026 16:40:17 -  {"code":400,"error":"Pessoa associada ao horário não encontrada"}|
+2026-02-02 16:40:17.3735|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissao] - Total Cadastrado(s): 1 admitido(s)|
+2026-02-02 16:41:29.0760|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RetornaFuncionariosDemitidos] - Procurando funcionários demitidos na data de quarta-feira, 28 de janeiro de 2026 ...|
+2026-02-02 16:41:29.0895|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RealizaIntegracaoAsync] - Não foi encontrado nenhum funcionário demitido|
+2026-02-02 16:41:29.0895|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD - 02/02/2026 16:41:29 - Operação finalizada com sucesso|
+2026-02-02 16:41:58.5566|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD - 02/02/2026 16:41:58 - Operação Iniciada ...|
+2026-02-02 16:42:00.1913|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RetornaFuncionariosAdmitidos] - Procurando funcionários admitidos na data de quarta-feira, 28 de janeiro de 2026 ...|
+2026-02-02 16:42:04.9068|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissaoAsync] - Verificando funcionários admitidos ...|
+2026-02-02 16:42:04.9128|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissaoAsync] - Encontrado(s) 1 admitido(s)|
+2026-02-02 16:43:30.6707|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD - 02/02/2026 16:43:30 - Operação Iniciada ...|
+2026-02-02 16:43:33.3038|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RetornaFuncionariosAdmitidos] - Procurando funcionários admitidos na data de quarta-feira, 28 de janeiro de 2026 ...|
+2026-02-02 16:43:38.1669|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissaoAsync] - Verificando funcionários admitidos ...|
+2026-02-02 16:43:38.1669|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissaoAsync] - Encontrado(s) 1 admitido(s)|
+2026-02-02 16:43:55.6375|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissao] - 02/02/2026 16:43:55 -  {"code":400,"error":"Pessoa associada ao horário não encontrada"}|
+2026-02-02 16:43:55.6461|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissao] - Total Cadastrado(s): 1 admitido(s)|
+2026-02-02 16:43:55.6461|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RetornaFuncionariosDemitidos] - Procurando funcionários demitidos na data de quarta-feira, 28 de janeiro de 2026 ...|
+2026-02-02 16:43:55.6675|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RealizaIntegracaoAsync] - Não foi encontrado nenhum funcionário demitido|
+2026-02-02 16:43:55.6760|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD - 02/02/2026 16:43:55 - Operação finalizada com sucesso|
+2026-02-02 16:47:51.6603|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD - 02/02/2026 16:47:51 - Operação Iniciada ...|
+2026-02-02 16:47:53.2697|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RetornaFuncionariosAdmitidos] - Procurando funcionários admitidos na data de quarta-feira, 28 de janeiro de 2026 ...|
+2026-02-02 16:47:53.2735|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissaoAsync] - Verificando funcionários admitidos ...|
+2026-02-02 16:47:53.2735|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissaoAsync] - Encontrado(s) 1 admitido(s)|
+2026-02-02 16:52:54.8945|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD - 02/02/2026 16:52:54 - Operação Iniciada ...|
+2026-02-02 16:52:57.5797|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RetornaFuncionariosAdmitidos] - Procurando funcionários admitidos na data de quarta-feira, 28 de janeiro de 2026 ...|
+2026-02-02 16:52:57.6001|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissaoAsync] - Verificando funcionários admitidos ...|
+2026-02-02 16:52:57.6001|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissaoAsync] - Encontrado(s) 1 admitido(s)|
+2026-02-02 16:54:45.1598|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD - 02/02/2026 16:54:45 - Operação Iniciada ...|
+2026-02-02 16:54:47.0346|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RetornaFuncionariosAdmitidos] - Procurando funcionários admitidos na data de quarta-feira, 28 de janeiro de 2026 ...|
+2026-02-02 16:54:47.0676|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissaoAsync] - Verificando funcionários admitidos ...|
+2026-02-02 16:54:47.0676|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissaoAsync] - Encontrado(s) 1 admitido(s)|
+2026-02-02 16:54:49.7472|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissao] - 02/02/2026 16:54:49 -  {"code":200,"error":"OK","newID":40}|
+2026-02-02 16:54:49.7529|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissao] - Total Cadastrado(s): 1 admitido(s)|
+2026-02-02 16:54:49.7529|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RetornaFuncionariosDemitidos] - Procurando funcionários demitidos na data de quarta-feira, 28 de janeiro de 2026 ...|
+2026-02-02 16:54:49.7529|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RealizaIntegracaoAsync] - Não foi encontrado nenhum funcionário demitido|
+2026-02-02 16:54:49.7529|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD - 02/02/2026 16:54:49 - Operação finalizada com sucesso|

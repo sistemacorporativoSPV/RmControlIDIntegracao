@@ -1,0 +1,56 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "API_RMxControliD",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/integracao": {
+      "get": {
+        "tags": [
+          "Integra"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Integra"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/integracao/login": {
+      "get": {
+        "tags": [
+          "Integra"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/integracao/login/novo": {
+      "get": {
+        "tags": [
+          "Integra"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

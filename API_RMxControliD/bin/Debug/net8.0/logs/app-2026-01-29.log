@@ -1,0 +1,8 @@
+2026-01-29 09:07:32.2343|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD - 29/01/2026 09:07:32 - Operação Iniciada ...|
+2026-01-29 09:07:37.8900|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RetornaFuncionariosAdmitidos] - Procurando funcionários admitidos na data de quarta-feira, 28 de janeiro de 2026 ...|
+2026-01-29 09:17:42.2954|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD - 29/01/2026 09:17:42 - Operação Iniciada ...|
+2026-01-29 09:17:47.0172|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RetornaFuncionariosAdmitidos] - Procurando funcionários admitidos na data de quarta-feira, 28 de janeiro de 2026 ...|
+2026-01-29 09:24:44.3819|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD - 29/01/2026 09:24:44 - Operação Iniciada ...|
+2026-01-29 09:24:50.7026|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RetornaFuncionariosAdmitidos] - Procurando funcionários admitidos na data de quarta-feira, 28 de janeiro de 2026 ...|
+2026-01-29 09:28:32.9670|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissaoAsync] - Verificando funcionários admitidos ...|
+2026-01-29 09:28:37.0904|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissaoAsync] - Encontrado(s) 1 admitido(s)|

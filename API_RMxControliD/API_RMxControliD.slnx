@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../TestRMxControliD/TestRMxControliD.csproj" />
+  <Project Path="API_RMxControliD.csproj" />
+</Solution>

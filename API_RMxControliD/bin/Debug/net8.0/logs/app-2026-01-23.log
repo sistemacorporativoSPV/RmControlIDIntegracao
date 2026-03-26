@@ -1,0 +1,10 @@
+2026-01-23 16:24:59.5198|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD - 23/01/2026 16:24:59 - Operação Iniciada ...|
+2026-01-23 16:25:02.0008|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RetornaFuncionariosAdmitidos] - Procurando funcionários admitidos na data de segunda-feira, 12 de janeiro de 2026 ...|
+2026-01-23 16:25:02.0208|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissaoAsync] - Verificando funcionários admitidos ...|
+2026-01-23 16:25:02.0250|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissaoAsync] - Encontrado(s) 2 admitido(s)|
+2026-01-23 16:25:02.4058|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissao] - 23/01/2026 16:25:02 -  {"code":400,"error":"Existe outro funcionário cadastrado com esse PIS"}|
+2026-01-23 16:25:02.6962|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissao] - 23/01/2026 16:25:02 -  {"code":400,"error":"Existe outro funcionário cadastrado com esse PIS"}|
+2026-01-23 16:25:02.7032|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [ProcessaAdmissao] - Total Cadastrado(s): 2 admitido(s)|
+2026-01-23 16:25:02.7032|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RetornaFuncionariosDemitidos] - Procurando funcionários demitidos na data de segunda-feira, 12 de janeiro de 2026 ...|
+2026-01-23 16:25:02.7142|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD [RealizaIntegracaoAsync] - Não foi encontrado nenhum funcionário demitido|
+2026-01-23 16:25:02.7142|Info|API_RMxControliD.API.Endpoints.Controllers.IntegraController|API_RMxControliD - 23/01/2026 16:25:02 - Operação finalizada com sucesso|

@@ -1,0 +1,42 @@
+[
+  {
+    "ContainingType": "API_RMxControliD.API.Endpoints.Controllers.IntegraController",
+    "Method": "Get",
+    "RelativePath": "api/integracao",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_RMxControliD.API.Endpoints.Controllers.IntegraController",
+    "Method": "Post",
+    "RelativePath": "api/integracao",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_RMxControliD.API.Endpoints.Controllers.IntegraController",
+    "Method": "TestaLoginRHiD",
+    "RelativePath": "api/integracao/login",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_RMxControliD.API.Endpoints.Controllers.IntegraController",
+    "Method": "TestaLoginHttpClientRHiD",
+    "RelativePath": "api/integracao/login/novo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
